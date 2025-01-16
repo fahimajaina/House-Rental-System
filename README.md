@@ -131,6 +131,7 @@ The **House Rental System** is a web application designed to provide an easy-to-
 ## **Resources**
 
 [Presentation Slide](https://drive.google.com/file/d/14DSwmQZxmYF2re6iEGlFU223P3SxfdnQ/view?usp=sharing)
+
 [Project Demo Video](https://drive.google.com/file/d/1FVxlweeV0ko7SREJLXg9jkaOY79dKJuH/view?usp=sharing)
 
 
