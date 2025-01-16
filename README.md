@@ -126,7 +126,13 @@ The **House Rental System** is a web application designed to provide an easy-to-
 - **User Authentication**: Ensure users are logged in before they can access tenant or owner features.
 - **Admin Panel**: Although not explicitly mentioned in the features, an admin panel could be added to manage all users and properties in the future.
 
+
 ---
+## **Resources**
+
+[Presentation Slide](https://drive.google.com/file/d/14DSwmQZxmYF2re6iEGlFU223P3SxfdnQ/view?usp=sharing)
+[Project Demo Video](https://drive.google.com/file/d/1FVxlweeV0ko7SREJLXg9jkaOY79dKJuH/view?usp=sharing)
+
 
 ## **Contributions**
 
@@ -135,7 +141,6 @@ Feel free to fork this project and submit pull requests. If you encounter any bu
 
 ---
 
-[Presentation Slide](https://drive.google.com/file/d/14DSwmQZxmYF2re6iEGlFU223P3SxfdnQ/view?usp=sharing)
-[Project Demo Video](https://drive.google.com/file/d/1FVxlweeV0ko7SREJLXg9jkaOY79dKJuH/view?usp=sharing)
+
 
 
